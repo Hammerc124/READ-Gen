@@ -1,15 +1,22 @@
 {
-    "name": "static-site",
+    "name": "markgen",
     "version": "1.0.0",
-    "description": "",
+    "description": "A README Markdown Generator",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Caleb Hammer",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "8.2.4"
-    }
+      "inquirer": "^8.2.4"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Hammerc124/READ-Gen.git"
+    },
+    "bugs": {
+      "url": "https://github.com/Hammerc124/READ-Gen/issues"
+    },
+    "homepage": "https://github.com/Hammerc124/READ-Gen#readme"
   }
-  
