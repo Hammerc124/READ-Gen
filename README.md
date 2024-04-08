@@ -58,6 +58,10 @@ THEN I am taken to the corresponding section of the README
 ![Website Preview Image](./assets/images/output-preview.png)
 
 
+## Link To Video Walkthrough
+
+https://drive.google.com/file/d/1hP8R8CLM-FFfl4w8t-HecwBuNYV88CYc/view
+
 
 
 ## Installation

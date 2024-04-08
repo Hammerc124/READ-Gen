@@ -10,13 +10,13 @@
     - [Questions](#questions)
   
     ## Description
-    In this project we use the command line to make a quick READ.ME that i can put into my repositories.
+    This project shows the skills weve learned to create a quick READ.ME file 
   
     ## Installation
-    Inquirer
+    inquirer
   
     ## Usage
-    to quickly make a READ.ME article
+    This was made to create a quick and timely READ.ME file so i can spend time on other code
   
     ## Contribution
     N/A
